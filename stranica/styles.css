@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFA500; /* Orange background */
+    color: #FFFFFF; /* White text */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FFFFFF; /* White background */
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #FFA500; /* Orange header text */
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #FFFFFF;
+    color: #FFA500;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #FFD700; /* Lighter orange on hover */
+}
+
+.keyboard-shortcut {
+    margin-top: 20px;
+}
+
+kbd {
+    background-color: #FFFFFF;
+    color: #FFA500;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
