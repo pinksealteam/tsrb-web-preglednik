@@ -14,7 +14,7 @@ TSRB Web Preglednik (TSRB Web Browser) je proizvoljni web browser namijenjen za 
 ### Klonirajte Repository
 
 ```bash
-git clone https://github.com/yourusername/tsrb-web-preglednik.git
+git clone https://github.com/pinksealteam/tsrb-web-preglednik.git
 ```
 
 
