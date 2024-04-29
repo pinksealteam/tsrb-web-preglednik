@@ -18,10 +18,10 @@ function manageBookmarks() {
     alert("'Bookmarks' gumb Vam daje mogućnost da spremite i organizirate Vaše najdraže web-stranice. Isto možete 'bookmark-at' bitne stranice za brzi pristup i upravljati Vašim bookmark-ovima za laganu upotrebu.");
 }
 
-// Listen for Ctrl + Shift + V key press
+// Slusaj za Ctrl + Shift + V 
 document.addEventListener('keydown', function(event) {
     if (event.ctrlKey && event.shiftKey && event.key === 'V') {
         alert('Opening TSRB Browser');
-        // Redirect or perform action to open the website
+        
     }
 });
